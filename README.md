@@ -2,5 +2,14 @@ Grocery List
 -Strawberries
 -Eggs
 -Bread
--Milk
+-Almond Milk
 -Chicken
+-Avocados
+-Flowers
+-Candles
+-Wine
+-Apples
+-Salmon
+-Mac&Cheese
+-Eggplant
+-Cereal
